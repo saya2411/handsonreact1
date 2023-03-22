@@ -1,0 +1,20 @@
+.function{
+    border-radius: 50px;
+    height: 70px;
+    width: 260px;
+    background-color:rgb(99, 206, 210);
+    margin-left:550px;
+}
+.funcdiv{
+    height: 400px;
+    width:700px;
+    font-size: x-large;
+    border: 2px solid black;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 70px;
+}
+.function:hover{
+    background-color: aqua;
+
+}

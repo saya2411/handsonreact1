@@ -1,0 +1,17 @@
+body{
+  background-image: linear-gradient(rgb(149, 236, 236), rgb(245, 141, 228));
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height:100%;
+  margin-bottom: 620px;
+}
+.head{
+  text-align: center;
+  text-shadow: cyan 3px 3px 9px;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 53px;
+}
